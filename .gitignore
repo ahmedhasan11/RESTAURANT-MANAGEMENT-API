@@ -55,3 +55,19 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+## Visual Studio cache and metadata
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio generated files
+*.VC.db
+*.VC.VC.opendb
+
+# Others (extra safety)
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+*.idea/
